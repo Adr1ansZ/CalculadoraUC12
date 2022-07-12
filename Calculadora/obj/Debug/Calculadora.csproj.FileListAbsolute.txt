@@ -9,3 +9,25 @@ C:\Users\estevao.roliveira\Documents\UC12\Calculadora\Calculadora\obj\Debug\Calc
 C:\Users\estevao.roliveira\Documents\UC12\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\estevao.roliveira\Documents\UC12\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\estevao.roliveira\Documents\UC12\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\pedro.psilva12\OneDrive - SENAC - SP\Área de Trabalho\UC12\A4\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\adrian.mrodrigues\OneDrive - SENAC - SP\Área de Trabalho\Save\CalculadoraUC12\Calculadora\obj\Debug\Calculadora.pdb
